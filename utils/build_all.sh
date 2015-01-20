@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 
 docker build -t openi/dao            dao/
 docker build -t openi/typeapi        type_api/

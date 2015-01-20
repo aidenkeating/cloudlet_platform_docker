@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 
 PATH_STUB=/home/openi
 
